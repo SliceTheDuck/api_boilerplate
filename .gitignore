@@ -1,4 +1,3 @@
 /node_modules
 /paths/*/
-/tools/*
-!/tools/
+/tools/apikeys.json
